@@ -1,0 +1,5 @@
+1. The average value and the highest recorded value of blood pressure for the entire population are higher than the average value and the highest recorded value for the sampled group.
+
+2. The threshold value corresponding to the 98th percentile of blood pressure in the entire population is higher than the corresponding threshold value for the sampled group.
+
+3. There is a small difference between the summary statistics calculated for the entire population and those calculated using the bootstrap sampling method.
